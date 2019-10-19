@@ -14,7 +14,7 @@ An example `.AutoRemoteSync.json` file would look like this:
                 "host": "example.com",
                 "user": "root",
                 "path": "/var/www/html"
-        }
+        },
         "verbose": true
 }
 ```
