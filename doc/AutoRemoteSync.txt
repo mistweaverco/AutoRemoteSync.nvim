@@ -1,7 +1,7 @@
 *AutoRemoteSync.txt*  A Vim/Neovim plugin to automatically upload files
 via `sftp` or `rsync` to a remote when you write the contents of a buffer to disk.
 
-Author:  Marco Kellershoff <https://gorilla.moe/>
+Author:  Marco Kellershoff <https://about.walialu.com/>
 License: MIT License (see |license|)
 
 INTRODUCTION                                    *AutoRemoteSync*
@@ -40,6 +40,6 @@ ABOUT                                           *AutoRemoteSync-about*
 
 Grab the latest version or report a bug on GitHub:
 
-http://github.com/walialu/AutoRemoteSync.nvim
+http://github.com/superevilmegaco/AutoRemoteSync.nvim
 
  vim:tw=78:et:ft=help:norl:
